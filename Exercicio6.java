@@ -1,8 +1,7 @@
-//* - Faça um programa que receba dois números inteiros e gere os números inteiros que estão no intervalo compreeendidos por eles.*//
 
 import java.util.Scanner;
 
-public class ExercicioSeis {
+public class Exercicio6 {
   public static void main(String[] args) {
 
   Scanner scanner = new Scanner(System.in);
